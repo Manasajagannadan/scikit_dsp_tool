@@ -1,0 +1,2 @@
+cd scikit-dsp-comm
+pip install -e .[helpers]
